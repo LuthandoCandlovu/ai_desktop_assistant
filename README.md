@@ -1,3 +1,4 @@
+markdown
 # 🤖 AI Desktop Assistant - Enterprise-Grade Productivity Tool
 
 <div align="center">
@@ -75,47 +76,53 @@
 ## 🏗️ **Technical Architecture**
 
 ### **System Design**
-```mermaid
-graph TB
-    A[User Interface] --> B[Command Processor]
-    B --> C[AI Engine]
-    C --> D[Task Executor]
-    D --> E[System Integration]
-    E --> F[Results Aggregator]
-    F --> A
-    
-    G[Voice Module] --> B
-    H[Vision Module] --> B
-    I[Gesture Module] --> B
-Technology Stack
-Layer	Technology	Purpose
-Frontend	CustomTkinter	Modern, responsive GUI
-AI/ML	OpenCV, TensorFlow	Computer vision & predictions
-Automation	PyAutoGUI, Selenium	System control & web automation
-Voice	SpeechRecognition, PyAudio	Speech processing
-Data	SQLite, JSON	Configuration & state management
-Integration	REST APIs, WebSockets	Enterprise system connectivity
-💼 Business Value Proposition
-ROI Analysis
-Metric	Before AI Assistant	After AI Assistant	Improvement
-Task Completion Time	5-10 minutes	1-2 minutes	70% faster
-Error Rate	8-12%	1-2%	85% reduction
-Training Time	2-3 days	2-3 hours	90% reduction
-Multi-tasking Capacity	Limited	High	3x increase
-Industry Applications
-🏦 Financial Services - Compliance reporting, data validation
+┌─────────────────┐ ┌──────────────────┐ ┌─────────────┐
+│ User Interface │───▶│ Command Processor │───▶│ AI Engine │
+└─────────────────┘ └──────────────────┘ └─────────────┘
+│ │ │
+│ │ │
+▼ ▼ ▼
+┌─────────────────┐ ┌──────────────────┐ ┌─────────────┐
+│ Voice Module │ │ Vision Module │ │Gesture Module│
+└─────────────────┘ └──────────────────┘ └─────────────┘
 
-🏥 Healthcare - Patient record management, appointment scheduling
+text
 
-🛒 Retail - Inventory management, customer service automation
+### **Technology Stack**
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| **Frontend** | CustomTkinter | Modern, responsive GUI |
+| **AI/ML** | OpenCV, TensorFlow | Computer vision & predictions |
+| **Automation** | PyAutoGUI, Selenium | System control & web automation |
+| **Voice** | SpeechRecognition, PyAudio | Speech processing |
+| **Data** | SQLite, JSON | Configuration & state management |
+| **Integration** | REST APIs, WebSockets | Enterprise system connectivity |
 
-🏢 Government - Document processing, public service automation
+---
 
-🎓 Education - Administrative task automation, student support
+## 💼 **Business Value Proposition**
 
-🔧 Enterprise Deployment
-System Requirements
-yaml
+### **ROI Analysis**
+| Metric | Before AI Assistant | After AI Assistant | Improvement |
+|--------|---------------------|-------------------|-------------|
+| **Task Completion Time** | 5-10 minutes | 1-2 minutes | **70% faster** |
+| **Error Rate** | 8-12% | 1-2% | **85% reduction** |
+| **Training Time** | 2-3 days | 2-3 hours | **90% reduction** |
+| **Multi-tasking Capacity** | Limited | High | **3x increase** |
+
+### **Industry Applications**
+- **🏦 Financial Services** - Compliance reporting, data validation
+- **🏥 Healthcare** - Patient record management, appointment scheduling
+- **🛒 Retail** - Inventory management, customer service automation
+- **🏢 Government** - Document processing, public service automation
+- **🎓 Education** - Administrative task automation, student support
+
+---
+
+## 🔧 **Enterprise Deployment**
+
+### **System Requirements**
+```yaml
 Minimum Requirements:
   - OS: Windows 10/11, Ubuntu 18.04+, macOS 10.15+
   - RAM: 8GB (16GB recommended)
@@ -270,4 +277,3 @@ https://img.shields.io/badge/Portfolio-View%2520Projects-orange
 https://img.shields.io/badge/Email-Contact%2520Me-red
 
 </div> ```
-
