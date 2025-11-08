@@ -1,3 +1,4 @@
+markdown
 # 🤖 AI Desktop Assistant
 
 <div align="center">
