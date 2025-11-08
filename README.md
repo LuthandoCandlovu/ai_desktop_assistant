@@ -1,4 +1,4 @@
-🤖 AI Desktop Assistant
+#🤖 AI Desktop Assistant
 Enterprise-Grade Intelligent Automation Platform
 
 <div align="center">
