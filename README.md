@@ -334,8 +334,8 @@ We offer enterprise-grade support and customization:
 
 ### 📧 **Contact Executive Team**
 - **Luthando Candlovu** - Platform Architect
-- **Email**: luthando3@gmail.com
-- **LinkedIn**: [Executive Profile](https://linkedin.com/in/luthando-candlovu)
+- **Email**: luthando.candlovu30@gmail.com
+- **LinkedIn**: [Executive Profile](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
 - **Enterprise Demo**: Available upon request
 
 ---
