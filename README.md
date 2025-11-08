@@ -1,3 +1,6 @@
+🤖 AI Desktop Assistant
+Enterprise-Grade Intelligent Automation Platform
+
 <div align="center">
 https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white
 https://img.shields.io/badge/OpenCV-5.0+-green?logo=opencv
@@ -346,6 +349,15 @@ https://img.shields.io/github/downloads/LuthandoCandlovu/ai-desktop-assistant/to
 Built with 💼 Enterprise Excellence & 🚀 Technical Innovation
 
 Luthando Candlovu • Platform Architect • AI Visionary
+
+</div>
+📝 License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+<div align="center">
+🌟 If this project impresses you, consider starring the repository and following for more innovative solutions!
+
+⬆ Back to Top
 
 </div>
 
